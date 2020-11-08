@@ -12,6 +12,8 @@
 
 - Laracasts
 
+- LinkedIn Learning
+
 - Pirple
 
 - Thinkster.io 
