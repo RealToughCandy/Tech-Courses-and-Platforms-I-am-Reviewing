@@ -15,6 +15,8 @@
 
 # Completed Reviews
 
+- Andrei Neagoie: The Complete Python Developer (Zero to Mastery)
+
 - Colt Steele vs Andrei Neagoie
 
 - Colt Steele's Web Developer Bootcamp
