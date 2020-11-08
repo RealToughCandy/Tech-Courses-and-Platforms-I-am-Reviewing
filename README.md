@@ -1,4 +1,4 @@
-## Video reviews featured on my YouTube channel [Tech Course Review](https://www.youtube.com/techcoursereview.
+## Video reviews featured on my YouTube channel [Tech Course Review](https://www.youtube.com/techcoursereview).
 
 # Upcoming Tech Courses & Platform Reviews:
 
