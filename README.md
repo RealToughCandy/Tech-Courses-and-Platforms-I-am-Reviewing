@@ -18,11 +18,15 @@
 
 - Pirple
 
+- RealToughCandy.io (hehehe)
+
 - Thinkster.io 
 
 - Treehouse
 
 - Udemy
+
+- Web Dev Simplified
 
 - Zero to Mastery
 
