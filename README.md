@@ -4,13 +4,21 @@
 
 - Coursera
 
+- Datacamp
+
 - EdX
 
 - FrontEnd Masters
 
 - Laracasts
 
+- Pirple
+
 - Thinkster.io 
+
+- Treehouse
+
+- Udemy
 
 
 # Completed Reviews
