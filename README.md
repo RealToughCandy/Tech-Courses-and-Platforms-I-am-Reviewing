@@ -37,5 +37,7 @@
 
 - Pluralsight
 
+- Scrimba
+
 - StudioWeb (Stefan Mischook)
 
