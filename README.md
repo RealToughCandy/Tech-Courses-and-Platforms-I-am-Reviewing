@@ -1,3 +1,5 @@
+## Video reviews featured on my YouTube channel [Tech Course Review](https://www.youtube.com/techcoursereview.
+
 # Upcoming Tech Courses & Platform Reviews:
 
 - Coursera
@@ -18,4 +20,6 @@
 - Colt Steele's Web Developer Bootcamp
 
 - Pluralsight
+
+- StudioWeb (Stefan Mischook)
 
