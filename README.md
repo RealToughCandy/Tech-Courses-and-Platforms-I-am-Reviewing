@@ -35,6 +35,8 @@
 
 - Colt Steele vs Andrei Neagoie
 
+- Colt Steele vs Angela Yu
+
 - Colt Steele's Web Developer Bootcamp
 
 - Pluralsight
