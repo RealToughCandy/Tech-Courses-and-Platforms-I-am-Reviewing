@@ -1,4 +1,4 @@
-# Tech-Courses-and-Platforms-I-am-Reviewing
+# Upcoming Tech Courses & Platform Reviews:
 
 - Coursera
 
