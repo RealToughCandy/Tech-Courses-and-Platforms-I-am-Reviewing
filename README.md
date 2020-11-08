@@ -25,6 +25,8 @@
 
 # Completed Reviews
 
+- AlgoExpert
+
 - Andrei Neagoie: The Complete Python Developer (Zero to Mastery)
 
 - Codecademy / Codecademy Pro
