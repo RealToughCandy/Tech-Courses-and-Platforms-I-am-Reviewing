@@ -18,7 +18,7 @@
 
 - Pirple
 
-- RealToughCandy.io (hehehe)
+- RealToughCandy.io (teehee)
 
 - Thinkster.io 
 
