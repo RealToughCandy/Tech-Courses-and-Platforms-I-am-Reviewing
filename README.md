@@ -4,7 +4,7 @@
 
 - Coursera
 
-- Datacamp
+- Datacamp / Datacamp vs Dataquest
 
 - Educative
 
@@ -23,6 +23,8 @@
 - Thinkster.io 
 
 - Treehouse
+
+- Udacity
 
 - Udemy
 
