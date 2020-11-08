@@ -2,6 +2,8 @@
 
 # Upcoming Tech Courses & Platform Reviews:
 
+- Andrei Neagoie vs Colt Steele SQL course
+
 - Coursera
 
 - Datacamp / Datacamp vs Dataquest
@@ -41,9 +43,9 @@
 
 - Codecademy / Codecademy Pro
 
-- Colt Steele vs Andrei Neagoie
+- Colt Steele vs Andrei Neagoie (bootcamp course)
 
-- Colt Steele vs Angela Yu
+- Colt Steele vs Angela Yu (bootcamp course)
 
 - Colt Steele's Web Developer Bootcamp
 
