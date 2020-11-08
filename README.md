@@ -6,6 +6,8 @@
 
 - Datacamp
 
+- Educative
+
 - EdX
 
 - FrontEnd Masters
