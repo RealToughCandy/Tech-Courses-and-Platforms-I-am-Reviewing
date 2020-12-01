@@ -4,11 +4,7 @@
 
 - Andrei Neagoie vs Colt Steele SQL course
 
-- Coursera
-
-- Datacamp / Datacamp vs Dataquest
-
-- Educative
+- Datacamp vs Dataquest
 
 - EdX
 
@@ -43,11 +39,17 @@
 
 - Codecademy / Codecademy Pro
 
+- Coursera
+
 - Colt Steele vs Andrei Neagoie (bootcamp course)
 
 - Colt Steele vs Angela Yu (bootcamp course)
 
 - Colt Steele's Web Developer Bootcamp
+
+- Datacamp
+
+- Educative
 
 - Pluralsight
 
