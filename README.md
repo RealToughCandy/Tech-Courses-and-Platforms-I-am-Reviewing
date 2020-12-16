@@ -22,7 +22,7 @@
 
 - Treehouse
 
-- Udacity
+- Udacity (Udacity front end)
 
 - Udemy
 
