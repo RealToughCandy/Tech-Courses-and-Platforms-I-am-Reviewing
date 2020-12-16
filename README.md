@@ -51,6 +51,8 @@
 
 - Educative
 
+- FreeCodeCamp
+
 - Pluralsight
 
 - Scrimba
