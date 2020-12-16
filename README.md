@@ -20,8 +20,6 @@
 
 - Thinkster.io 
 
-- Treehouse
-
 - Udacity (Udacity front end)
 
 - Udemy
@@ -58,4 +56,7 @@
 - Scrimba
 
 - StudioWeb (Stefan Mischook)
+
+- Treehouse
+
 
