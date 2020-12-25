@@ -22,8 +22,6 @@
 
 - Udacity (Udacity front end)
 
-- Udemy
-
 - Web Dev Simplified
 
 - Zero to Mastery
@@ -58,5 +56,8 @@
 - StudioWeb (Stefan Mischook)
 
 - Treehouse
+
+- Udemy
+
 
 
