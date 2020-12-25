@@ -1,4 +1,4 @@
-## Video reviews featured on my YouTube channel [Tech Course Review](https://www.youtube.com/techcoursereview).
+## Video reviews featured on my YouTube channel [Tech Course Review](https://www.youtube.com/techcoursereview). There are also a few on my primary channel [RealToughCandy](https://www.realtoughcandy.com)
 
 # Upcoming Tech Courses & Platform Reviews:
 
