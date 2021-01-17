@@ -12,8 +12,6 @@
 
 - Laracasts
 
-- LinkedIn Learning
-
 - Pirple
 
 - RealToughCandy.io
@@ -48,6 +46,8 @@
 - Educative
 
 - FreeCodeCamp
+
+- LinkedIn Learning
 
 - Pluralsight
 
