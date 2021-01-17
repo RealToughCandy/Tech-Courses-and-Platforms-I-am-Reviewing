@@ -18,8 +18,6 @@
 
 - Thinkster.io 
 
-- Udacity (Udacity front end)
-
 - Web Dev Simplified
 
 - Zero to Mastery
@@ -56,6 +54,8 @@
 - StudioWeb (Stefan Mischook)
 
 - Treehouse
+
+- Udacity 
 
 - Udemy
 
