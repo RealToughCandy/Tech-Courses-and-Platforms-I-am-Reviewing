@@ -20,8 +20,6 @@
 
 - Web Dev Simplified
 
-- Zero to Mastery
-
 
 # Completed Reviews
 
@@ -58,6 +56,9 @@
 - Udacity 
 
 - Udemy
+
+- Zero to Mastery
+
 
 
 
