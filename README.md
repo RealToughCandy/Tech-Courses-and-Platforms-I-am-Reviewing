@@ -18,8 +18,6 @@
 
 - Thinkster.io 
 
-- Web Dev Simplified
-
 
 # Completed Reviews
 
@@ -56,6 +54,8 @@
 - Udacity 
 
 - Udemy
+
+- Web Dev Simplified
 
 - Zero to Mastery
 
