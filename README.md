@@ -12,6 +12,8 @@
 
 - Laracasts
 
+- Openclassrooms
+
 - Pirple
 
 - RealToughCandy.io
