@@ -25,6 +25,8 @@
 
 - AlgoExpert
 
+- Algo.monster
+
 - Andrei Neagoie: The Complete Python Developer (Zero to Mastery)
 
 - Codecademy / Codecademy Pro
